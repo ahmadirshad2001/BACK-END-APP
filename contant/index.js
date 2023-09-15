@@ -1,0 +1,1 @@
+exports.BASEROUTES=require("./baseRoute")
